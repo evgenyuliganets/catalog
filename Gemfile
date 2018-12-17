@@ -31,7 +31,7 @@ gem 'jbuilder', '~> 2.5'
 # gem 'bcrypt', '~> 3.1.7'
 gem 'devise'
 gem "paperclip", "~> 6.0.0"
-
+gem 'pg', '0.18.1', group: :production
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
